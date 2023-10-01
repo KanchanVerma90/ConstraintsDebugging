@@ -8,6 +8,7 @@
 import UIKit
 
 let attributesList : [String] = ["notAnAttribute","left","right","top","bottom","leading","trailing","width","height","centerX","centerY","lastBaseline","firstBaseline","leftMargin","rightMargin","topMargin","bottomMargin","leadingMargin","trailingMargin","centerXWithinMargins","centerYWithinMargins"]
+
 let story = UIStoryboard(name: "Main", bundle: Bundle.main)
 
 class ConstraintsList: UITableViewController {
